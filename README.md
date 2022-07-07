@@ -1,4 +1,6 @@
-# Tracking the movement of fingers through the angle between vectors
+# Finger control
+Tracking the movement of fingers through the angle between vectors
 
 
-![image38](https://user-images.githubusercontent.com/101418967/177823882-6da8a0d9-cd9b-4807-870c-9be4001f6e18.jpg)
+
+![hand_landmarks](https://user-images.githubusercontent.com/101418967/177825437-b2862dca-d54c-4c31-8c96-4feecd93d0ca.png)
