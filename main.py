@@ -95,7 +95,7 @@ with mp_holistic.Holistic(
                         #mouse.release(Button.left)
                 if xc == 2:
                     if angle<110:
-                        presskeyforgame.hold(31, 1)
+                        presskeyforgame.hold(31, 1) # "S"
 
                 if xc==3:
                     if angle<110:
